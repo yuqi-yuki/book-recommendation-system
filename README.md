@@ -10,7 +10,7 @@ This project is a book recommendation system built using collaborative filtering
 
 ## 📂 Files
 
-- `Project part 2 - Recommendation system.ipynb` – Main notebook with all code.
+- `Recommendation system.ipynb` – Main notebook with all code.
 - `Goodreads_best1500books.csv` – Dataset of 1500 books with ratings and metadata.
 - `screenshot.png` – Preview of recommendation results.
 
